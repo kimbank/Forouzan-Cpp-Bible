@@ -23,7 +23,7 @@
     <td>p.89</td>
     <!--   객체 지향편   -->
     <td>Ch 11</td>
-    <td></td>
+    <td><a href="링크" target="3776AB"><img src="https://img.shields.io/badge/00000000up-171515?style=flat-square&logo=Github&logoColor=white"/></a></td>
     <td>p.679</td>
   </tr>
   <tr>
