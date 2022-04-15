@@ -6,7 +6,7 @@
 
 <!-- <p align="center"><a href="https://www.hanbit.co.kr/store/books/look.php?p_code=B1851418066"><img src="https://www.hanbit.co.kr/data/books/B1851418066_l.jpg" /></a></p> -->
 
-<!-- <a href="{링크}" target="3776AB"><img src="https://img.shields.io/badge/{업데이트일}up-171515?style=flat-square&logo=Github&logoColor=white"/></a> -->
+<!-- <a href="{링크}"><img src="https://img.shields.io/badge/{업데이트일}up-171515?style=flat-square&logo=Github&logoColor=white"/></a> -->
 
 <table align="center">
   <tr>
@@ -19,7 +19,7 @@
   <tr>
     <!--   기본편   -->
     <td>Ch 02</td>
-    <td><a href="https://github.com/kimbank/Forouzan-Cpp-Bible/blob/main/_solutions/Chapter02/01.cpp" target="3776AB"><img src="https://img.shields.io/badge/20220415up-171515?style=flat-square&logo=Github&logoColor=white"/></a></td>
+    <td><a href="https://github.com/kimbank/Forouzan-Cpp-Bible/tree/main/_solutions/Chapter02"><img src="https://img.shields.io/badge/20220415up-171515?style=flat-square&logo=Github&logoColor=white"/></a></td>
     <td>p.89</td>
     <!--   객체 지향편   -->
     <td>Ch 11</td>
